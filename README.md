@@ -12,4 +12,5 @@ A survey was held online for around 300 data professionals about their salary ra
 
 # Interactive dashboard:
 
-  ![image](https://github.com/SridharKadhiri/Data-Professionals-Survey-Breakdown/assets/90100318/f30f0995-6b75-46c2-a615-62c7fea7babd)
+![image](https://github.com/SridharKadhiri/Data-Professionals-Survey/assets/90100318/68252cfa-313b-45ff-a97f-b79cef952216)
+
